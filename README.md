@@ -2,7 +2,7 @@
 
 About:
 
-Pinugs is a game made for the "GameOff2021" game jam.
+Pingus is a game made for the "GameOff2021" game jam.
 Made around 10 days it features 3 levels, powerups, and fun but challagning gameplay.
 
 Technical:
