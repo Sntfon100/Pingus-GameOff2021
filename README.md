@@ -3,7 +3,7 @@
 About:
 
 Pingus is a game made for the "GameOff2021" game jam.
-Made around 10 days it features 3 levels, powerups, and fun but challagning gameplay.
+Made around 10 days it features 3 levels, powerups, and fun but challenging gameplay.
 
 Technical:
 
